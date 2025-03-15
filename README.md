@@ -63,8 +63,6 @@ gridSculpt is a visual tool that leverages global grid deformations and fine-tun
 
 ## File Structure
 
-Below is an overview of your current file layout:
-
 ```
 gridSculpt/
 ├── adaptiveGrid.js            # Core adaptive grid module (global transformations)
@@ -89,7 +87,7 @@ This section will detail the unique approaches and algorithms used in gridSculpt
 - **Polygonal Encoding:** An innovative method for encoding and manipulating polygonal data to enable complex geometry transformations.
 - **Advanced Grid Definition:** A custom approach to defining grid cells that supports both global deformation domains and local cell sculpting.
 
-_(You can expand this section with diagrams, code snippets, and detailed explanations as you refine your documentation.)_
+_(To be expanded with diagrams, code snippets, and detailed explanations)_
 
 ## Contributing
 
