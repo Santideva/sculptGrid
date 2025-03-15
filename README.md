@@ -1,4 +1,3 @@
-Below is an updated README skeleton that reflects your actual file structure and includes placeholders for highlighting your innovative methods—like polygonal encoding and the unique way your grid is defined. You can expand on these details in a dedicated “Innovations” or “Methodology” section later.
 
 ---
 
